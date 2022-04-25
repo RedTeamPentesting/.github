@@ -1,5 +1,3 @@
-# RedTeam Pentesting
-
 ![Banner: "Wir haben eine Mission. Werde eine*r von uns."
 jobs.redteam-pentesting.de](https://github.com/RedTeamPentesting/.github/blob/main/profile/banner.jpg?raw=true)
 
@@ -10,7 +8,7 @@ aufgedeckt und können anschließend behoben werden.
 
 In unseren Repositories stellen wir einige selbstentwickelte Angriffswerkzeuge
 und Proof-Of-Concept-Exploits vor. Mehr Informationen zu den Projekten gibt es
-auf [unserem Blog](https://blog.redteam-pentesting.de) und unserem [Twitter-Kanal](https://twitter.com/RedTeamPT).
+auf [blog.redteam-pentesting.de](https://blog.redteam-pentesting.de) und auf [Twitter (@RedTeamPT)](https://twitter.com/RedTeamPT).
 
 Falls du Interesse an der Arbeit als Pentester hast, schau doch mal vorbei
 unter [jobs.redteam-pentesting.de](https://jobs.redteam-pentesting.de)!
