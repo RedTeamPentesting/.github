@@ -10,7 +10,7 @@ aufgedeckt und können anschließend behoben werden.
 
 In unseren Repositories stellen wir einige selbstentwickelte Angriffswerkzeuge
 und Proof-Of-Concept-Exploits vor. Mehr Informationen zu den Projekten gibt es
-auf [unserem Blog](https://blog.redteam-pentesting.de).
+auf [unserem Blog](https://blog.redteam-pentesting.de) und unserem [Twitter-Kanal](https://twitter.com/RedTeamPT).
 
 Falls du Interesse an der Arbeit als Pentester hast, schau doch mal vorbei
 unter [jobs.redteam-pentesting.de](https://jobs.redteam-pentesting.de)!
