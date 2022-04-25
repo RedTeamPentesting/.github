@@ -1,7 +1,7 @@
 # RedTeam Pentesting
 
 ![Banner: "Wir haben eine Mission. Werde eine*r von uns."
-jobs.redteam-pentesting.de](https://github.com/RedTeamPentesting/.github/blob/main/banner.jpg?raw=true)
+jobs.redteam-pentesting.de](https://github.com/RedTeamPentesting/.github/blob/main/profile/banner.jpg?raw=true)
 
 **RedTeam Pentesting** führt individuelle Penetrationstests, kurz Pentests, in einem
 Team spezialisierter IT-Sicherheitsexperten durch. Hierdurch werden
