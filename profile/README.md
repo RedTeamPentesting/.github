@@ -16,8 +16,8 @@ unter [jobs.redteam-pentesting.de](https://jobs.redteam-pentesting.de)!
 ### Impressum
 
 > RedTeam Pentesting GmbH<br>
-> Dennewartstr. 25-27<br>
-> 52068 Aachen<br>
+> Alter Posthof 1<br>
+> 52062 Aachen<br>
 > Deutschland<br>
 >
 > E-Mail: <kontakt@redteam-pentesting.de>
